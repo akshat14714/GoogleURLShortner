@@ -29,7 +29,7 @@ A basic url shortner using AJAX and google APIs
 12. Then, select "Public data" under "What data will you be accessing?" Your entries should include the following:
 ![IMAGE ALT TEXT HERE](https://s3.amazonaws.com/codecademy-content/courses/intermediate-javascript-requests/what-credentials.png)
 
-13. Click "What credentials do I need?" You should be redirected to a page that says "Add credentials to your project." It should give you an API Key. That api key will always be available in the credentials console.
+13. Click "What credentials do I need?" You should be redirected to a page that says "Add credentials to your project." It should give you an API Key. That api key will always be available in the [credentials console](https://console.developers.google.com/apis/credentials?project=codecademyjs-188918).
 
 
 Congratulations! You have enabled the Google URL Shortener API and obtained an API Key!
